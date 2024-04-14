@@ -1,6 +1,6 @@
 # DiamondPurchasePreferences_Study
 
-**Title: Analysis Report on Consumer Preferences for Lab-Grown vs. Natural Diamonds**
+**Analysis  on Consumer Preferences for Lab-Grown vs. Natural Diamonds**
 
 **Introduction:**
 The purpose of this study was to explore how different advertising framings influence consumer preferences between lab-grown and natural diamonds. This issue is particularly relevant given the evolving market dynamics and increasing environmental considerations in diamond purchasing.
